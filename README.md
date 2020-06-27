@@ -10,7 +10,10 @@ The basics for using switches, leds, sounds.
 Easy samples about using I2C connection.
 
 - 02_MIDI (using 2NanoMusic board)
-Easy samples about using MIDI communication.
+Easy examples about using MIDI communication.
+
+- 03_ISR (using 2NanoMusic board)
+Easy examples about using AVR timer-interrupt functions.
 
 
 # Hardware
