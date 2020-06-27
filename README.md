@@ -2,7 +2,7 @@
 Some tests project using Arduino for build musical instruments
 
 
-# Lists
+# Contents
 - 00_helloworld (using 2NanoMusic board)
 The basics for using switches, leds, sounds.
 
@@ -14,6 +14,10 @@ Easy examples about using MIDI communication.
 
 - 03_ISR (using 2NanoMusic board)
 Easy examples about using AVR timer-interrupt functions.
+
+- 04_PWM (using 2NanoMusic board and an additional speaker on D11 pin)
+Using AVR timer-interrupt and PWM output in order to play multi-channel sounds.
+Note : Sound volume control had not be successed yet.
 
 
 # Hardware
