@@ -21,6 +21,8 @@ Using AVR timer-interrupt and PWM output in order to play multi-channel sounds.
 - 05_MIDI_ISR (using 2NanoMusic board and an additional speaker on D11 pin)
 The example of recieve MIDI, play tone(multi), and send MIDI using AVR interrupt in order to DSP and timing-control.  
 
+- 06_LED_ISR (using 2NanoMusic board)
+Using AVR timer-interrupt to control LED and SW matrix, and to control MIDI-send sequencialy.  
 
 
 # Hardware
